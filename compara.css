@@ -306,3 +306,4 @@ h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; color: var(--gr
 }
 @media (min-width: 761px) { .sticky-cta { display: none; } .footer { padding-bottom: 48px; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
+.hero + .reasons { padding-top: 56px; }
