@@ -3,7 +3,7 @@
     'use strict';
 
     // Mismo Apps Script que index.html (main.js), para que los leads lleguen a la misma hoja.
-    var ENDPOINT = 'https://script.google.com/macros/s/AKfycbyLURkc8z_KQ6VQrvx0bXarpJi5FAUWD-cElD9gVxXQ-abSU8F6sWpbtOuExsmOUBULjg/exec';
+    var ENDPOINT = 'https://script.google.com/macros/s/AKfycbzN2LcsMVMJRT17mXxvXtTBZebR9u-wCILBpNxV3MrBFTk9jw4hhDT6opo5NVgndiAMcg/exec';
 
     // Tasas aproximadas usadas en index.html (TRM $4.010 y EUR $4.400).
     var RATES = { COP: 1, USD: 4010, EUR: 4400 };
